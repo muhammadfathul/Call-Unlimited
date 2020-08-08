@@ -10,7 +10,7 @@
 $ apt update && apt upgrade
 $ apt install git
 $ apt install python2
-$ git clone https://github.com/muhammadfathul/Call-Unlimited
+$ git clone https://github.com/ArroKM/Call-Unlimited
 $ cd Call-Unlimited
 $ python2 unli.py <Nomor> <jumlah>
 ```
